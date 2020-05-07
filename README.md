@@ -1,2 +1,3 @@
-# cpp-examples
-C++ code examples and snippets
+# C++ examples
+
+[Callbacks](https://github.com/cognitivewaves/cpp-examples/tree/master/callbacks)
